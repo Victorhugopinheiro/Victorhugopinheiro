@@ -9,7 +9,7 @@
 
 - Aqui Estão minhas experiências [https://www.linkedin.com/in/victor-hugo-7a58452a5/](https://www.linkedin.com/in/victor-hugo-7a58452a5/)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
