@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, Eu sou o Victor</h1>
 <h3 align="center">Apaixonado pela Tecnologia .</h3>
 
-- Estou Estudando **JavaScript, Node**
+- Estou Estudando **JavaScript,React e Node**
 
-- Me pergunte sobre **SQl, Excel, Power BI, Hardware, JavaScript e Node**
+- Me pergunte sobre **JavaScript e Node, SQl, Excel, Power BI, Hardware**
 
 - Onde me achar **Azullvictorhugo10@gmail.com**
 
