@@ -3,7 +3,7 @@
 
 - Estou Estudando **JavaScript, React e Node**
 
-- Me pergunte sobre **JavaScript, TypeScript, React, Next.Js, FireBase, SQl, Hardware**
+- Me pergunte sobre **Nodejs, TypeScript, React, Next.Js, PostgreSQL, Hardware**
 
 - Onde me achar **Azullvictorhugo10@gmail.com**
 
