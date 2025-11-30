@@ -9,7 +9,7 @@
 
 - Aqui Estão minhas experiências [https://www.linkedin.com/in/victor-hugo-7a58452a5/](https://www.linkedin.com/in/victor-hugo-7a58452a5/)
 
-- Portfólio com projetos: https://portf-lio-pi-gilt.vercel.app/
+
 
 
 <p align="left">
